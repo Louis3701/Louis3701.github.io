@@ -115,7 +115,7 @@ Couleur des éléments de navigations :
 
 .dropdown-item {
     font-weight: bold;
-    color: black;
+    color: rgb(230, 7, 7);
 }
 
 .dropdown-item:active {
